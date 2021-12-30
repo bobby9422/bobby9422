@@ -1,3 +1,6 @@
+[![Metrics](https://github.com/bobby9422/bobby9422/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/bobby9422/bobby9422/actions/workflows/blank.yml)
+
+
 ![Metrics](https://metrics.lecoq.io/bobby9422?template=classic&config.timezone=Asia%2FCalcutta)
 
 
