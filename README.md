@@ -1,3 +1,6 @@
+![Metrics](https://metrics.lecoq.io/bobby9422?template=classic&config.timezone=Asia%2FCalcutta)
+
+
 - 👋 Hi, I’m @bobby9422
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
